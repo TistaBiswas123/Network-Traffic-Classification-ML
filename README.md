@@ -18,10 +18,10 @@ Machine Learning Algorithms Used
 Model Accuracy
 
 Algorithm| Accuracy
-Logistic Regression| 91.55%
-KNN| 99.15%
-Decision Tree| 98.81%
-Random Forest| 99.48%
+Logistic Regression| 91.55%,
+KNN| 99.15%,
+Decision Tree| 98.81%,
+Random Forest| 99.48%.
 
 Tools & Technologies
 
