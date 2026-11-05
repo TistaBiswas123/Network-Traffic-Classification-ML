@@ -37,11 +37,11 @@ Model Performance
 
 The following accuracy scores were obtained during model evaluation:
 
-Algorithm| Accuracy
-Logistic Regression| 91.55%
-K-Nearest Neighbors (KNN)| 99.15%
-Decision Tree| 98.81%
-Random Forest| 99.48%
+Algorithm  | Accuracy
+Logistic Regression| 91.55%,
+K-Nearest Neighbors (KNN)| 99.15%,
+Decision Tree| 98.81%,
+Random Forest| 99.48%.
 
 Best Accuracy: Random Forest Classifier – 99.48%.
 
