@@ -1,4 +1,4 @@
-# Network Traffic Classification Using Machine Learning
+# Network Protocol Classification Using Machine Learning
 
 Project Description
 
