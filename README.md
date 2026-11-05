@@ -38,6 +38,8 @@ Model Performance
 The following accuracy scores were obtained during model evaluation:
 
 Algorithm  | Accuracy
+
+
 Logistic Regression| 91.55%,
 K-Nearest Neighbors (KNN)| 99.15%,
 Decision Tree| 98.81%,
